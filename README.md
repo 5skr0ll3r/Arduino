@@ -82,11 +82,17 @@ DHT	KEYWORD1
 ###########################################
 
 begin	KEYWORD2
+
 readTemperature	KEYWORD2
+
 convertCtoF	KEYWORD2
+
 convertFtoC	KEYWORD2
+
 computeHeatIndex	KEYWORD2
+
 readHumidity	KEYWORD2
+
 read	KEYWORD2
 
 If you go where you installed the library and go through the files you can see another example and a keywords.txt

@@ -95,9 +95,6 @@ readHumidity	KEYWORD2
 
 read	KEYWORD2
 
-If you go in to the files of the DHT11 library that you installed and go through them you can see another example and a keywords.txt
+If you go through the files of the DHT11 library that you installed you can see another example and a keywords.txt
 Read the Keywords bcs other tutorials use older versions and the code is not compatible with the new 
 See how the sensor [works](http://www.micro4you.com/files/sensor/DHT11.pdf)
-
-Sorry for my english
-If you want share this tut and folow me
